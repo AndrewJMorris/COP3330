@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp"
+    }
+}

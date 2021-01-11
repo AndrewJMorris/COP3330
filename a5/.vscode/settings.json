@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "__functional_base": "cpp",
+        "array": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "unordered_map": "cpp",
+        "new": "cpp",
+        "iostream": "cpp"
+    }
+}

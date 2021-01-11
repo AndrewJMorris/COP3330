@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "iomanip": "cpp",
+        "cctype": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp",
+        "cstring": "cpp",
+        "iosfwd": "cpp",
+        "ios": "cpp",
+        "__functional_base": "cpp",
+        "__functional_base_03": "cpp",
+        "__hash_table": "cpp",
+        "__tuple": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    }
+}
